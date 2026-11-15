@@ -1,0 +1,6 @@
+Hello!
+
+My name is Saad Mehmood.
+I am a BS Software Engineering student.
+I am currently in 5th semester.
+I am learning Git and GitHub.
